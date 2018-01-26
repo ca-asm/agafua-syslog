@@ -6,7 +6,7 @@
     <groupId>com.agafua.syslog</groupId>
     <artifactId>agafua-syslog</artifactId>
     <packaging>jar</packaging>
-    <version>0.3</version>
+    <version>0.3.1-CA</version>
     <name>agafua-syslog archetype</name>
     <url>http://maven.apache.org</url>
 
